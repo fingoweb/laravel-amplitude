@@ -7,7 +7,7 @@
         "package",
         "php"
     ],
-    "homepage": "https://github.com/francescomalatesta/laravel-amplitude",
+    "homepage": "https://github.com/fingoweb/laravel-amplitude",
     "license": "MIT",
     "type": "library",
     "authors": [
