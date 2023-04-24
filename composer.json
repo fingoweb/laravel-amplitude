@@ -1,5 +1,5 @@
 {
-    "name": "francescomalatesta/laravel-amplitude",
+    "name": "fingoweb/laravel-amplitude",
     "description": "A Laravel package to work with Amplitude.",
     "keywords": [
         "laravel",
@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "php": "^7.4",
+        "php": "^7.4|^8.0",
         "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0",
         "zumba/amplitude-php": "^1.0"
     },
